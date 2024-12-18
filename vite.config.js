@@ -9,9 +9,15 @@ export default defineConfig({
     alias: {
       "@": path.resolve(__dirname, "./src"),
     },
+<<<<<<< HEAD
    
   },
   build:{
+=======
+    
+  },
+   build:{
+>>>>>>> 2e65208d064ded0e2f403ef22eb16d968a64afa6
     outDir:'dist',
   }
 })
